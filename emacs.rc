@@ -264,7 +264,7 @@ bind-to-key	newline	^J
 
 ;	uEmacs/PK specific initialization
 
-!if &seq $progname "uEmacs/PK"
+!if &seq $progname "uEmacs/Pk"
 
 ;	Don't scroll on a Sun
 
